@@ -1,0 +1,36 @@
+_repo: Select-Speeches-of-Kossuth_10691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kossuth, Lajos
+    aliases:
+    - Kossuth, Louis
+    - Deregnyei
+    birthdate: 1802
+    deathdate: 1894
+    gutenberg_agent_id: '3641'
+    url: http://www.gutenberg.org/2009/agents/3641
+    wikipedia: http://en.wikipedia.org/wiki/Lajos_Kossuth
+  editor:
+    agent_name: Newman, Francis William
+    alias: Newman, F. W. (Francis William)
+    birthdate: 1805
+    deathdate: 1897
+    gutenberg_agent_id: '4201'
+    url: http://www.gutenberg.org/2009/agents/4201
+    wikipedia: http://en.wikipedia.org/wiki/Francis_William_Newman
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Hungary -- History'
+- GITenberg
+title: Select Speeches of Kossuth
+url: http://www.gutenberg.org/ebooks/10691
